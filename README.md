@@ -1,4 +1,4 @@
-## Página web de ladding page
+## Página ladding page
 
 Uma página com o bot para discord usando HTML e CSS.
 
