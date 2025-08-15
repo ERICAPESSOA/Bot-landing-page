@@ -2,7 +2,7 @@
 
 Desenvolvi uma landing page com o bot para discord utilizando HTML e CSS, como parte do meu processo de aprendizado, focando em estruturação e design responsivo.
 
-#### Vercel link https://botlanddingpage-68cl1i4lw-ericas-projects-fef53b4b.vercel.app/
+#### Acesse aqui: https://botlanddingpage-68cl1i4lw-ericas-projects-fef53b4b.vercel.app/
 
 #### Imagem:
 
